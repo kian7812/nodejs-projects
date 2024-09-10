@@ -1,5 +1,5 @@
 # Dependency directories
-# 也会ignore 这 qianfeng/npm 里面的 node_modules 
+# 也会 ignore 项目里的 node_modules
 node_modules/
 
 # Mac os
